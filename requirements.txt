@@ -1,5 +1,5 @@
 pydantic
-SQLAlchemy
+SQLAlchemy==2.0.8
 fastapi
 PyYAML
 uvicorn
